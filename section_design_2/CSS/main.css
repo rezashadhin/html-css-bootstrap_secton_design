@@ -1,0 +1,45 @@
+#first_bg_1{
+    background: url('../IMG/gallary5.jpg') top center no-repeat;
+    background-size: cover;
+    border-bottom: 10px solid #98c717;
+
+}
+.ownself_class{
+    position: relative;
+    padding-right: 50px;
+    z-index: 1 ;
+
+}
+.ownself_class:after{
+    content: "";
+    position: absolute;
+    left: -4900%;
+    top: 0;
+    width: 5000%;
+    height: 100%;
+    background-color: #082351;
+    z-index: -1;
+    transform: skew(20deg);
+    opacity: 0.8;
+}
+#first_bg_2{
+    background: url('../IMG/gallary7.jpg') center center no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.zigzag_bg_2
+.ownself_class:after {
+    left: auto;
+    right: -4900%;
+    
+
+}
+.zigzag_bg_2
+.ownself_class {
+    padding-left: 80px;
+    padding-right: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+

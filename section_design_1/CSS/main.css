@@ -1,0 +1,38 @@
+/* color: #138496 */
+#main{
+    position: relative;
+
+}
+.dark-overlay{
+    background: url('../IMG/ser2.jpg') no-repeat top center;
+    position: absolute;
+    background-size: cover;
+    width: 58%;
+    height: 100%;
+    top: 0;
+    left: 0;
+ 
+}
+.dark-overlay:after{
+    content: "";
+    position: absolute;
+    background: #138496;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.874;
+}
+.color_class{
+    outline: none;
+    background-color: #E8EBEC;
+   
+}
+.form-control{
+    outline: none;
+    border: none;
+}
+.btn{
+    border: 1px solid white;
+}
+
