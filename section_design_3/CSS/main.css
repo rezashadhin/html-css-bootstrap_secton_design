@@ -1,0 +1,58 @@
+/* 
+font-family: 'Lato',
+sans-serif;
+
+font-family: 'Roboto Condensed',
+sans-serif;
+
+font-family: 'Oswald',
+sans-serif;
+
+font-family: 'Teko',
+sans-serif;
+
+*/
+body{
+    font-family: 'Roboto Condensed',
+    sans-serif;
+}
+.bg_play_area{
+    background: url('../IMG/ab3.jpg') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    min-height: 250px;
+    margin-top: 60px;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0px 6px 12px 3px #5cd;
+}
+.rong_bg {
+    width: 80px;
+    right: -40px;
+    top: 90px;
+    height: 80px;
+    padding-top: 20px;
+    padding-left: 8px;
+    position: absolute;
+    text-align: center;
+    border-radius: 50px;
+    opacity: 0.8;
+    z-index: 2;
+    background-color: #FF0000;
+    box-shadow: 0px 6px 12px 3px #929292;
+}
+.fa{
+    color: #fff;
+    font-size: 40px;
+}
+.list-group-item {
+    border: none;
+    padding-bottom: 0;
+    color: white;
+    background: none;
+}
+.fas{
+    color: rgb(100, 241, 12);
+    margin-right: 8px;
+    margin-top: 5px;
+}
