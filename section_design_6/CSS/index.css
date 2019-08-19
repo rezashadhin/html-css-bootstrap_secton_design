@@ -1,0 +1,73 @@
+body {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 20px;
+}
+
+#section_padding .heading-Row {
+  background: #8cd;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+#section_padding .heading-Row h3 {
+  font-family: "Cormorant SC", serif;
+}
+
+#section_padding .card .card-body .card-title {
+  color: green;
+}
+
+#section_padding .card .card-body ul {
+  list-style: none;
+}
+
+#section_padding .card .card-body .img-size {
+  width: 49px;
+  height: 49px;
+}
+
+#section_padding .card .card-body {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#section_padding .card .card-body .fa {
+  line-height: 30px;
+}
+
+#section_padding .card .card-body .fa {
+  margin-right: 10px;
+  margin-top: 12px;
+  color: greenyellow;
+}
+
+#section_padding .card .card-body .time1 {
+  color: red;
+}
+
+#section_padding .card .card-body .p1 {
+  color: #000;
+  font-size: 30px;
+  line-height: 30px;
+  padding-top: 10px;
+}
+
+#section_padding .card .card-body .icon-1 {
+  color: green;
+  margin-bottom: 10px;
+}
+
+#section_padding .card .card-body .icon-2 {
+  color: #2116bd;
+  margin-bottom: 10px;
+}
+
+#section_padding .card .card-body .icon-3 {
+  color: yellow;
+  margin-bottom: 10px;
+}
+
+#section_padding .card .card-body button {
+  border-radius: 25px;
+}
+/*# sourceMappingURL=index.css.map */

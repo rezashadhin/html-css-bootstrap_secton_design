@@ -1,0 +1,76 @@
+$font-family1: 'Cormorant Garamond',
+serif;
+
+$font-family2: 'Cormorant SC',
+serif;
+
+$font-family3: 'Josefin Slab',
+serif;
+
+$font-family4: 'Monoton',
+cursive;
+
+body {
+    font-family: $font-family1;
+    font-size: 20px;
+};
+#section_padding{
+    .heading-Row{
+       background: #8cd;
+       padding: 10px;
+       margin-bottom: 30px;
+      
+        }
+    .heading-Row h3 {
+        font-family: $font-family2;
+    }
+    .card .card-body .card-title{
+        color: green;
+    }
+    .card .card-body ul{
+        list-style: none;
+    }
+    .card .card-body .img-size {
+       width: 49px;
+       height: 49px;
+    }
+    .card .card-body{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .card .card-body .fa {
+        line-height: 30px;
+    }
+    .card .card-body .fa {
+        margin-right: 10px;
+        margin-top: 12px;
+        color: greenyellow;
+    }
+    .card .card-body .time1 {
+        color: red;
+    }
+    .card .card-body .p1 {
+        color: #000;
+        font-size: 30px;
+        line-height: 30px;
+        padding-top: 10px;
+    }
+     .card .card-body .icon-1 {
+         color: green;
+         margin-bottom: 10px;
+     }
+
+     .card .card-body .icon-2 {
+         color: rgb(33, 22, 189);
+         margin-bottom: 10px;
+     }
+
+     .card .card-body .icon-3 {
+         color: yellow;
+         margin-bottom: 10px;
+     }
+    .card .card-body button {
+        border-radius: 25px;
+    }
+
+}
