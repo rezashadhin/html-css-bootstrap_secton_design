@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 24px;
+}
+
+#section_padding .icon_arrow {
+  font-size: 30px;
+  color: #fff;
+  margin-right: 5px;
+  margin-top: 200px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+#section_padding .icon_arrow .fa {
+  position: relative;
+  background: #ccc;
+}
+
+#section_padding .icon_arrow .fa:hover {
+  color: #fff;
+  background: #33db;
+}
+/*# sourceMappingURL=index.css.map */
