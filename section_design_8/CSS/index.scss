@@ -1,0 +1,35 @@
+$font-family1: 'Cormorant Garamond',
+serif;
+
+$font-family2: 'Cormorant SC',
+serif;
+
+$font-family3: 'Josefin Slab',
+serif;
+
+$font-family4: 'Monoton',
+cursive;
+
+body {
+    font-family: $font-family1;
+    font-size: 20px;
+};
+.section_bg{
+    background: #F1F1F1;
+}
+.card{
+    border: none;
+}
+
+.btn i.fas{
+    margin-left: 10px;
+}
+.btn {
+    color: #5c940d;   
+}
+.btn:hover {
+    background: #5c940d;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 50px;
+}

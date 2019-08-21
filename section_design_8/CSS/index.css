@@ -1,0 +1,28 @@
+body {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 20px;
+}
+
+.section_bg {
+  background: #F1F1F1;
+}
+
+.card {
+  border: none;
+}
+
+.btn i.fas {
+  margin-left: 10px;
+}
+
+.btn {
+  color: #5c940d;
+}
+
+.btn:hover {
+  background: #5c940d;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 50px;
+}
+/*# sourceMappingURL=index.css.map */
